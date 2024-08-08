@@ -67,5 +67,5 @@ Give credit here.
 
 
 ## Contact
-Created by [@orvin_andikal](https://www.linkedin.com/in/orvin-andika-ikhsan-abhista-4296aa2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) - feel free to contact me!
+Created by [@orvin_andika](https://www.linkedin.com/in/orvin-andika-ikhsan-abhista-4296aa2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) - feel free to contact me!
 
