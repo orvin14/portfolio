@@ -237,66 +237,6 @@ nav ul li a  {
     background: var(--primarybgcolor);
     border-radius: var(--itemborderradius);
 }
-#contacts {
-    padding: var(--sectionpadding);
-}
-.kontak {
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(350px,1fr));
-    gap: 3rem;
-}
-.kontak-form div {
-    margin-bottom: 1.4rem;
-}
-.kontak-form input, .kontak-form textarea {
-    width: 100%;
-    padding: 0.75rem 1.3rem;
-    font-family: "Roboto", sans-serif;
-    background: var(--secondbgcolor);
-    border: 1px solid var(--bordercolor);
-    border-radius: 3px;
-    resize: none;
-}
-.kontak-form input::placeholder, .kontak-form textarea::placeholder {
-    color: #9d9fa1;
-}
-.kontak-form input:focus, .kontak-form textarea:focus {
-    outline: none;
-    border: 1px solid #7d7d7d;
-}
-.btn-submit {
-    width: 100%;
-    padding: 0.75rem 1.3rem;
-    background-color: var(--primaryiconcolor);
-    color: #fff;
-    border: none;
-    border-radius: 3px;
-    cursor: pointer;
-    transition: .2s ease-in-out;
-}
-.btn-submit:hover {
-    background: var(--primaryiconcolorhover);
-}
-.kontak-item {
-    display: flex;
-    gap: 1.5rem;
-    margin-bottom: 2.5rem;
-}
-.kontak-item-icon {
-    background: var(--thirdbgcolor);
-    width: 53px;
-    height: 53px;
-    border-radius: 9px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.kontak-item-icon svg {
-    fill: var(--primaryiconcolor);
-}
-.kontak-item-detail h4 {
-    margin-bottom: 0.6rem;
-}
 footer {
     padding: 4rem 0;
     background: var(--secondbgcolor);
