@@ -113,10 +113,7 @@ export const projects = [
     "Jetpack Compose",
     "Android",
     "Room Database",
-    "WebSocket",
-    "Google Maps",
-    "Fused Location Provider",
-    "EncryptedSharedPreferences"
+    "WebSocket"
   ],
 
   thumbnail: "/img/360.png",
