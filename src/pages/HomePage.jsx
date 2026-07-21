@@ -240,7 +240,7 @@ export default function HomePage() {
               <p className="section-kicker">About Me</p>
               <h2>About Me</h2>
               <p>
-                I am a sixth-semester Informatics Engineering student at Institut Teknologi Bandung with a strong passion for software engineering, backend development, and problem solving. I enjoy designing and building scalable applications that address real-world challenges while maintaining clean, maintainable code.
+                I am a final year Informatics Engineering student at Institut Teknologi Bandung with a strong passion for software engineering, backend development, and problem solving. I enjoy designing and building scalable applications that address real-world challenges while maintaining clean, maintainable code.
 
                 Throughout my academic journey, I have worked on various software development projects ranging from web applications and mobile applications to system design and algorithmic problem solving. I am always eager to learn new technologies, improve my technical skills, and collaborate with others to create impactful solutions.
 
