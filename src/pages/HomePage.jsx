@@ -64,6 +64,15 @@ export default function HomePage() {
 
   const experiences = [
     {
+    title: "System Analyst Intern",
+    org: "Pertamina Patra Niaga",
+    period: "Jun 2026 – Aug 2026",
+    points: [
+      "Created and maintained System Requirement Specifications (SRS), flowcharts, and system design documentation to support the development process.", 
+      "Collaborated with stakeholders and development teams to translate business needs into actionable system requirements." 
+    ]
+  },
+    {
     title: "Computer Science and Engineering Laboratory Assistant",
     org: "School of Electrical Engineering and Informatics (STEI), Institut Teknologi Bandung",
     period: "Sep 2025 – Present",
